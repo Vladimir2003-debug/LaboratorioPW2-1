@@ -60,43 +60,34 @@
   <tbody>
    <tr>
       <td colspan="6">I. SOLUCION DE EJERCICIOS/PROBLEMAS
-        Los ejercicios se resolvieron haciendo uso de los comandos
+        <br>Los ejercicios se resolvieron haciendo uso de los comandos
       </td>
    </tr>
-   <td colspan="6">II. SOLUCION DE CUESTIONARIO
-      Los ejercicios se resolvieron haciendo uso de los comandos
-      <td>
-      </tr>
-        <td colspan="6">III. CONCLUSIONES
-  
-      </td>
+   <tr> 
+    <td colspan="6">II. SOLUCION DE CUESTIONARIO
+      <br>Los ejercicios se resolvieron haciendo uso de los comandos
+    </td>
+   </tr>
+    <tr>
+    <td colspan="6">III. CONCLUSIONES
+      <br>
+    </td>
     </tr>
   </tbody>
 </table>
-
 
 <table>
   <theader>
-    <tr><th colspan="6">SOLUCION Y RESULTADOS</th></tr>
+    <tr><th colspan="6">RETROALIMENTACION</th></tr>
   </theader>
   <tbody>
     <tr>
-      <td colspan="6">I. SOLUCION DE EJERCICIOS/PROBLEMAS
-        Los ejercicios se resolvieron haciendo uso de los comandos
-      <td>
-    </tr>
-    <tr>
-      <td colspan="6">II. SOLUCION DE CUESTIONARIO
-        Los ejercicios se resolvieron haciendo uso de los comandos
-      <td>
-    </tr>
-      <td colspan="6">III. CONCLUSIONES
-         En este trabajo se practico el uso de la plataforma y herramienta git para el control de versiones en un proyecto 
-      </td>
+      <td></td>
     </tr>
   </tbody>
 </table>
-
+      
+      
 <table>
   <theader>
     <tr><th colspan="6">REFERENCIAS BIBLIOGRAFICAS</th></tr>
