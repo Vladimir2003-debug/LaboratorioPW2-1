@@ -93,14 +93,15 @@
 </tr>
 <td colspan="6">III. CONCLUSIONES
  En este trabajo se practico el uso de la plataforma y herramienta git para el control de versiones en un proyecto 
- 
 <td>
 </tr>
 </table>
+
 <table>
 <theader>
 <tr><th colspan="6">REFERENCIAS BIBLIOGRAFICAS</th></tr>
 </theader>
+<tbody>
 <tr>
 <td colspan="6">
 <ul>
@@ -109,4 +110,5 @@
 </ul>
 <td>
 </tr>
+<tbody>
 </table>
