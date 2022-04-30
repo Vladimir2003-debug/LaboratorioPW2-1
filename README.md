@@ -54,61 +54,61 @@
 
 
 <table>
-<theader>
-<tr><th colspan="6">SOLUCION Y RESULTADOS</th></tr>
-</theader>
-<tr>
-<td colspan="6">I. SOLUCION DE EJERCICIOS/PROBLEMAS
-  Los ejercicios se resolvieron haciendo uso de los comandos
-<td>
-</tr>
-<tr>
-<tr>
-<td colspan="6">II. SOLUCION DE CUESTIONARIO
-  Los ejercicios se resolvieron haciendo uso de los comandos
-<td>
-</tr>
-<td colspan="6">III. CONCLUSIONES
+  <theader>
+    <tr><th colspan="6">SOLUCION Y RESULTADOS</th></tr>
+  </theader>
+  <tbody>
+   <tr>
+      <td colspan="6">I. SOLUCION DE EJERCICIOS/PROBLEMAS
+        Los ejercicios se resolvieron haciendo uso de los comandos
+      </td>
+   </tr>
+   <td colspan="6">II. SOLUCION DE CUESTIONARIO
+      Los ejercicios se resolvieron haciendo uso de los comandos
+      <td>
+      </tr>
+        <td colspan="6">III. CONCLUSIONES
   
-<td>
-</tr>
-
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 
 <table>
-<theader>
-<tr><th colspan="6">SOLUCION Y RESULTADOS</th></tr>
-</theader>
-<tr>
-<td colspan="6">I. SOLUCION DE EJERCICIOS/PROBLEMAS
-  Los ejercicios se resolvieron haciendo uso de los comandos
-<td>
-</tr>
-<tr>
-<tr>
-<td colspan="6">II. SOLUCION DE CUESTIONARIO
-  Los ejercicios se resolvieron haciendo uso de los comandos
-<td>
-</tr>
-<td colspan="6">III. CONCLUSIONES
- En este trabajo se practico el uso de la plataforma y herramienta git para el control de versiones en un proyecto 
-<td>
-</tr>
+  <theader>
+    <tr><th colspan="6">SOLUCION Y RESULTADOS</th></tr>
+  </theader>
+  <tbody>
+    <tr>
+      <td colspan="6">I. SOLUCION DE EJERCICIOS/PROBLEMAS
+        Los ejercicios se resolvieron haciendo uso de los comandos
+      <td>
+    </tr>
+    <tr>
+      <td colspan="6">II. SOLUCION DE CUESTIONARIO
+        Los ejercicios se resolvieron haciendo uso de los comandos
+      <td>
+    </tr>
+      <td colspan="6">III. CONCLUSIONES
+         En este trabajo se practico el uso de la plataforma y herramienta git para el control de versiones en un proyecto 
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <table>
-<theader>
-<tr><th colspan="6">REFERENCIAS BIBLIOGRAFICAS</th></tr>
-</theader>
-<tbody>
-<tr>
-<td colspan="6">
-<ul>
-<li>https://guides.github.com/</li>
-<li>https://git-scm.com/book/es/v2</li>
-</ul>
-<td>
-</tr>
-<tbody>
+  <theader>
+    <tr><th colspan="6">REFERENCIAS BIBLIOGRAFICAS</th></tr>
+  </theader>
+  <tbody>
+    <tr>
+      <td colspan="6">
+        <ul>
+          <li>https://guides.github.com/</li>
+          <li>https://git-scm.com/book/es/v2</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
 </table>
