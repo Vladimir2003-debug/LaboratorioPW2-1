@@ -99,10 +99,10 @@
 </table>
 <table>
 <theader>
-<tr><th>REFERENCIAS BIBLIOGRAFICAS</th></tr>
+<tr><th colspan="6">REFERENCIAS BIBLIOGRAFICAS</th></tr>
 </theader>
 <tr>
-<td>
+<td colspan="6">
 <ul>
 <li>https://guides.github.com/</li>
 <li>https://git-scm.com/book/es/v2</li>
