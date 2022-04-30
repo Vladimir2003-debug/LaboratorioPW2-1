@@ -39,7 +39,7 @@
 <td>FECHA INICIO::</td><td>25-Abr-2022</td><td>FECHA FIN:</td><td>29-Abr-2022</td><td>DURACIÓN:</td><td>04 horas</td>
 </tr>
 <tr><td colspan="4">Integrantes:
-<p>Vladimir Arturo Sulla Quispe</p>
+<ul><li>Vladimir Arturo Sulla Quispe https://github.com/Vladimir2003-debug/LaboratorioPW2-1.git</li></ul>
 </td>
 <td>NOTA:</td><td></td>
 </<tr>
@@ -60,18 +60,29 @@
   <tbody>
    <tr>
       <td colspan="6">I. SOLUCION DE EJERCICIOS/PROBLEMAS
-        <br>Los ejercicios se resolvieron haciendo uso de los comandos
+        <br>En este ejercicio se realizo la creacion de una calculadora y un holaMundo con el 
+        objetivo de probar e interactuar con los comandos git
+        algunos de los comandos usados fueron:     
+        git init
+        git commit
+        git checkout Vladimir
+        git branch -a
+        git log
+        git status
+        git push origin main/Vladimir
       </td>
    </tr>
    <tr> 
     <td colspan="6">II. SOLUCION DE CUESTIONARIO
-      <br>Los ejercicios se resolvieron haciendo uso de los comandos
+      <br>
     </td>
    </tr>
     <tr>
     <td colspan="6">III. CONCLUSIONES
-      <br>
-    </td>
+      <br>E l uso de github y git nos permite trabajar mejor con los proyectos grupales sin embargo
+      hay que tener cuidado con los git push, la sincronizacion y/o  organizacion que hagan los demas
+      ya que podria haber sobreescritura en los trabajos
+     </td>
     </tr>
   </tbody>
 </table>
